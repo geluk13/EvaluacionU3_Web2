@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420">
+  <rect width="600" height="420" rx="32" fill="#fff1f5"></rect>
+  <ellipse cx="300" cy="360" rx="160" ry="28" fill="#ead4da"></ellipse>
+  <path d="M210 310 L300 388 L390 310 L360 180 L240 180 Z" fill="#ffc7d5"></path>
+  <path d="M235 315 L300 370 L365 315 L345 200 L255 200 Z" fill="#ffdce5"></path>
+  <path d="M250 280 C240 210 220 150 200 95" stroke="#5f9f69" stroke-width="12" fill="none" stroke-linecap="round"></path>
+  <path d="M300 280 C300 205 300 140 300 70" stroke="#5f9f69" stroke-width="12" fill="none" stroke-linecap="round"></path>
+  <path d="M350 280 C360 210 380 150 405 95" stroke="#5f9f69" stroke-width="12" fill="none" stroke-linecap="round"></path>
+  <circle cx="200" cy="90" r="28" fill="#f2809a"></circle>
+  <circle cx="180" cy="78" r="20" fill="#ffb3c2"></circle>
+  <circle cx="220" cy="78" r="20" fill="#ffb3c2"></circle>
+  <circle cx="200" cy="55" r="20" fill="#ffb3c2"></circle>
+  <circle cx="200" cy="90" r="10" fill="#ffd85e"></circle>
+  <circle cx="300" cy="70" r="30" fill="#ffffff"></circle>
+  <circle cx="278" cy="70" r="20" fill="#fff"></circle>
+  <circle cx="322" cy="70" r="20" fill="#fff"></circle>
+  <circle cx="300" cy="48" r="20" fill="#fff"></circle>
+  <circle cx="300" cy="92" r="20" fill="#fff"></circle>
+  <circle cx="300" cy="70" r="10" fill="#ffd85e"></circle>
+  <circle cx="405" cy="90" r="28" fill="#ffd43b"></circle>
+  <circle cx="385" cy="78" r="20" fill="#ffe680"></circle>
+  <circle cx="425" cy="78" r="20" fill="#ffe680"></circle>
+  <circle cx="405" cy="55" r="20" fill="#ffe680"></circle>
+  <circle cx="405" cy="90" r="10" fill="#6e3d24"></circle>
+  <text x="300" y="340" text-anchor="middle" font-family="Arial" font-size="24" fill="#9b5364">Jarbera Douce</text>
+</svg>
